@@ -46,4 +46,5 @@ int main()
     {
         printf("%3i", arr[i]);
     }
+    delete[]arr;
 }
